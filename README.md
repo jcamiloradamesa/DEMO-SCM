@@ -1,3 +1,3 @@
 # DEMO-SCM
 
-Update description.
+Updated description.
